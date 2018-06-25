@@ -1,4 +1,4 @@
-# GoLang Crawler
+# GoToyCrawler
 A Toy Web Crawler which crawls over the given domain and lists down the linkages between different webpages and the static assets each page uses via a sitemap (printed in a tree format). 
 
 Crawler doesn't crawl external links, only the links belonging to the same domain.
